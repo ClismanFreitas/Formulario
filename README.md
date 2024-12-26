@@ -5,17 +5,17 @@ Esse projeto é uma atividade proposta pelo curso que eu faço DevQuest, essa at
 ## Screenshot 
 Desktop 💻
 
-<img src="./src/design/desktop" alt="Captura de tela desktop">
+<img src="./src/design/desktop.png" alt="Captura de tela desktop">
 
 Mobile 📱
 
-<img src="./src/design/mobile" alt="Captura de tela mobile">
+<img src="./src/design/mobile.png" alt="Captura de tela mobile">
 
 Tablet 📱
 
-<img src="./src/design/tablet" alt="Captura de tela tablet">
+<img src="./src/design/tablet.png" alt="Captura de tela tablet">
 
 ## Tecnologias utilizadas 👨‍💻
 - HTML
 - CSS
--JavaScript
+- JavaScript
