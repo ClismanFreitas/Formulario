@@ -1,6 +1,6 @@
 # Formulário com Validação ✅
 
-Esse projeto é uma atividade proposta pelo curso que eu faço DevQuest, essa atividade serviu para colocar em prática tudo que foi ensinado durante o módulo de HTML/CSS Avançado
+Esse projeto é uma atividade proposta pelo curso que eu faço DevQuest, essa atividade serviu para colocar em prática tudo que foi ensinado durante o módulo de HTML/CSS/JavaScript Avançado/intermediario
 
 ## Screenshot 
 Desktop 💻
