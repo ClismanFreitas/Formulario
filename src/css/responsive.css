@@ -1,0 +1,93 @@
+@media(max-width: 925px){
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-direction: column;
+        height: 100vh;
+    }
+
+    .infos{
+        width: 200px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .infos h1{
+        display: flex;
+        justify-content: center;
+        width: 400px;
+        font-size: 25px;
+    }
+
+    .infos p {
+        width: 600px;
+        height: 70px;
+        display: flex;
+        text-align: center;
+        justify-content: center; 
+    }
+
+    .formulario{
+        width: 400px;
+    }
+
+    .input{
+        width: 100%;
+    }
+
+    .btn{
+        width: 100%;
+    }
+}
+
+@media(max-width: 450px){
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 100vh;
+
+    }
+
+    .infos{
+        padding-top: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .infos p{
+        width: 270px;
+        height: 80px;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .infos h1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 250px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .formulario{
+        display: flex;
+
+        width: 300px;
+        height: 500px;
+    }
+
+    .input{
+        width: 100%;
+    }
+
+    .btn{
+        width: 100%;
+    }
+}
